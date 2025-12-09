@@ -1,7 +1,7 @@
 - 👋 Olá, Sou @lucasrd2k
-- 👀 Trabalho com backend e com chatbots Whatsapp
+- 👀 Trabalho principalmente com apis backend e chatbots Whatsapp
 - 🌱 Aprendendo tudo que for necessário para prosseguir com meus projetos
-- 💞️ Programador Back-End Mapapon, MEI, estudante e bolsista PIBIT no IF Goiano - Câmpus Ceres
+- 💞️ Programador Back-End na Bluebyte, MEI e formando de Bacharelado em Sistemas de Informação
 - 📫 lucasrdias51@gmail.com
 - 📫 lucas.rodrigues@estudante.ifgoiano.edu.br
 
